@@ -1,3 +1,13 @@
+#Deployed as : 
+
+https://translate-context-app-react.netlify.app/
+
+# using context system in React
+
+it's about communicating information from a parent (component) to a deeply nested child (component)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
